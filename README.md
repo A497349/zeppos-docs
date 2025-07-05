@@ -1,4 +1,9 @@
-# Zepp OS Developers Documentation
+barcode_app/
+├── app.json
+├── resources/
+│   └── barcode.png     ← 你的條碼圖
+└── page/
+    └── index.js        ← 上面那段程式碼
 
 English | [简体中文](./README-cn.md)
 
